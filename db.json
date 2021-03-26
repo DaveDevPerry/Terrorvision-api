@@ -1,0 +1,61 @@
+{
+  "terrorvision": [
+    {
+      "id":0,
+      "name": "Formaldehyde",
+      "description": "desciption of fomaldehyde",
+      "highest-chart": 123,
+      "version": [
+        {
+          "id": 0,
+          "image": "image.jpeg",
+          "cat-number": "ATVRLP-1",
+          "label": "Total Vegas",
+          "format": 12,
+          "release date": "01/01/1991",
+          "tracklist" : ["Problem Solved","Ships that sink","American TV","New Policy One","Jason","Killing Time","Urban Space crime","Hole for a soul","Don't Shoot my dog","Desolation Town","My House","Human Being"],
+          "notes": "dlksfjvdsk dskjf dsvlkdjsvds"
+        },
+        {
+          "id": 1,
+          "image": "image.jpeg",
+          "cat-number": "ATVRCD-1",
+          "label": "Total Vegas",
+          "format": "CD",
+          "release date": "04/01/1991",
+          "tracklist" : ["Problem Solved","Ships that sink","American TV","New Policy One","Jason","Killing Time","Urban Space crime","Hole for a soul","Don't Shoot my dog","Desolation Town","My House","Human Being"],
+          "notes": "kldidh kjdhkdhjk i"
+        }
+      ]
+    },
+    {
+      "id":1,
+      "name": "How To make friends and influence people",
+      "description": "desciption of HTMFAIP",
+      "highest-chart": 15,
+      "version": [
+        {
+          "id": 0,
+          "image": "image.jpeg",
+          "cat-number": "VEGASTC2",
+          "label": "EMI",
+          "format": "TC",
+          "release date": "18/04/1994",
+          "tracklist" : ["Alice, What's the matter?","Oblivion","Stop the bus","Discotheque Wreck","Middleman","Still the rhythm","Ten shades of grey","Stab in the back","Pretend best friend","What the doctor orderes","Sign o the times","Some people say","What makes you tick"],
+          "notes": "dksfn kjfkdjv fkjgfk"
+        },
+        {
+          "id": 1,
+          "image": "image.jpeg",
+          "cat-number": "VEGASCD2",
+          "label": "EMI",
+          "format": "CD",
+          "release date": "18/04/1994",
+          "tracklist" : ["Alice, What's the matter?","Oblivion","Stop the bus","Discotheque Wreck","Middleman","Still the rhythm","Ten shades of grey","Stab in the back","Pretend best friend","What the doctor orderes","Sign o the times","Some people say","What makes you tick"],
+          "notes": "shiny promo"
+        }
+       
+      ]
+    }
+  ]
+}
