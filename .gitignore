@@ -1,5 +1,5 @@
 node_modules
-byreleasedb.json
+# byreleasedb.json
 allsongsdb.json
 merchdb.json
 gigdb.json

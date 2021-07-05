@@ -1,0 +1,551 @@
+{
+  "terrorvision": 
+    {
+      "demo":[],
+      "album": [
+        {
+          "formaldehyde": [
+            {
+              "id":0,
+              "title": "Formaldehyde",
+              "description": "desciption of fomaldehyde",
+              "unique-identifier": "for misprint etc",
+              "members": [
+                {
+                  "vocals":"tony wright",
+                  "image":"url"
+                },
+                {
+                  "guitar":"mark yates",
+                  "image":"url"
+                },
+                {
+                  "bass":"leigh marklew",
+                  "image":"url"
+                },
+                {
+                  "drums":"shutty",
+                  "image":"url"
+                }
+              ],
+              "highest-chart": 123,
+              "version": [
+                {
+                  "id": 0,
+                  "media": 12,
+                  "cat-no": "ATVRLP-1",
+                  "part-no": "n/a",
+                  "release": [
+                    {
+                      "day": "01",
+                      "month": "spet",
+                      "year": "1993",
+                      "coutry": "UK" 
+                    }
+                  ],
+                  "label": "Total Vegas",
+                  "publisher": "publisher",
+                  "notes": "dlksfjvdsk dskjf dsvlkdjsvds",
+                  "image": "image.jpeg",       
+                  "tracklist" : [
+                    {
+                      "title":"Problem Solved",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Ships that sink",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"American TV",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"New Policy One",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Jason",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Killing Time",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Urban Space crime",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Hole for a soul",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Don't Shoot my dog",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Desolation Town",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"My House",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Human Being",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+
+        },
+        {
+          "how to make friends and influence people": [
+            {
+              "id":1,
+              "title": "how to make friends and influence people",
+              "description": "desciption of friends",
+              "unique-identifier": "for misprint etc",
+              "members": [
+                {
+                  "vocals":"tony wright",
+                  "image":"url"
+                },
+                {
+                  "guitar":"mark yates",
+                  "image":"url"
+                },
+                {
+                  "bass":"leigh marklew",
+                  "image":"url"
+                },
+                {
+                  "drums":"shutty",
+                  "image":"url"
+                }
+              ],
+              "highest-chart": 123,
+              "version": [
+                {
+                  "id": 0,
+                  "media": "cd",
+                  "cat-no": "FRIENDS1",
+                  "part-no": "n/a",
+                  "release": [
+                    {
+                      "day": "18",
+                      "month": "april",
+                      "year": "1994",
+                      "coutry": "UK" 
+                    }
+                  ],
+                  "label": "EMI",
+                  "publisher": "publisher",
+                  "notes": "dlksfjvdsk dskjf dsvlkdjsvds",
+                  "image": "image.jpeg",       
+                  "tracklist" : [
+                    {
+                      "title":"Alice, What's the matter?",
+                      "length":"146",
+                      "single": true,
+                      "video": true,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Oblivion",
+                      "length":"146",
+                      "single": true,
+                      "video": true,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Stop the bus",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Discotheque Wreck",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Middleman",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Still the Rhythm",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Ten Shades of Grey",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Stab in th Back",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Pretend Best Friend",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Sign O' the Times",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"What the Doctor Ordered",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Some People Say",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    }
+                    ,
+                    {
+                      "title":"What MAkes you Tick",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+
+        },
+        {
+          "regular urban survivors": [
+            {
+              "id":0,
+              "title": "regular urban survivors",
+              "description": "desciption of regular urban survivors",
+              "unique-identifier": "for misprint etc",
+              "members": [
+                {
+                  "vocals":"tony wright",
+                  "image":"url"
+                },
+                {
+                  "guitar":"mark yates",
+                  "image":"url"
+                },
+                {
+                  "bass":"leigh marklew",
+                  "image":"url"
+                },
+                {
+                  "drums":"shutty",
+                  "image":"url"
+                }
+              ],
+              "highest-chart": 100,
+              "version": [
+                {
+                  "id": 0,
+                  "media": "cd",
+                  "cat-no": "CDVEGAS3",
+                  "part-no": "n/a",
+                  "release": [
+                    {
+                      "day": 11,
+                      "month": 2,
+                      "year": 1996,
+                      "coutry": "UK" 
+                    }
+                  ],
+                  "label": "Total Vegas",
+                  "publisher": "publisher",
+                  "notes": "dlksfjvdsk dskjf dsvlkdjsvds",
+                  "image": "image.jpeg",       
+                  "tracklist" : [
+                    {
+                      "title":"Problem Solved",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Ships that sink",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"American TV",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"New Policy One",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Jason",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Killing Time",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Urban Space crime",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Hole for a soul",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Don't Shoot my dog",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Desolation Town",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"My House",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Human Being",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+
+        }
+      ],
+      "single": [
+        {
+          "thrive": [
+            {
+              "id":0,
+              "title": "thrive",
+              "description": "desciption of thrive",
+              "unique-identifier": "for misprint etc",
+              "members": [
+                {
+                  "vocals":"tony wright",
+                  "image":"url"
+                },
+                {
+                  "guitar":"mark yates",
+                  "image":"url"
+                },
+                {
+                  "bass":"leigh marklew",
+                  "image":"url"
+                },
+                {
+                  "drums":"shutty",
+                  "image":"url"
+                }
+              ],
+              "highest-chart": 123,
+              "version": [
+                {
+                  "id": 0,
+                  "media": 12,
+                  "cat-no": "12-VEGAS-1",
+                  "part-no": "n/a",
+                  "release": [
+                    {
+                      "day": "01",
+                      "month": "01",
+                      "year": "1992",
+                      "coutry": "UK" 
+                    }
+                  ],
+                  "label": "Total Vegas",
+                  "publisher": "EMI",
+                  "notes": "notes for thrive",
+                  "image": "image.jpeg",       
+                  "tracklist" : [
+                    {
+                      "title":"Urban Space Crime",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Jason",
+                      "length":"146",
+                      "single": false,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Blackbird",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    },
+                    {
+                      "title":"Pain Reliever",
+                      "length":"146",
+                      "single": true,
+                      "video": false,
+                      "lyrics": true,
+                      "tab": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "promo": [],
+      "live": [],
+      "bootleg": [],
+      "other": []
+    }
+}
+   
